@@ -5,11 +5,11 @@ description: "Jekyll Basics is a simple boilerplate Jekyll site with multilingua
 lang: en
 ---
 
-Hello, my name is Krisztian Hofstadter. This is a multilingual website template with one page (home) and four posts. You could write here about yourself and perhaps simply add a link to your professional accounts and CV like this:
+Hello, my name is Xiaojing Zhuo. You can also call me Hester. I am majoring in Conference Interpreting and Translation (Chinese-English). I have worked as a part-time translator since June 2016, rendering many materials both from Chinese to English and from English to Chinese. There are the links to my CV and LindeIn page:
 
 [CV](https://khofstadter.info/assets/doc/K-Hofstader-CV-general-2019.pdf)   
 [Work](https://www.anglia.ac.uk/people/krisztian-hofstadter)   
-[LinkedIn](https://www.linkedin.com/in/tedor)
+[LinkedIn](https://www.linkedin.com/in/%E6%99%93%E5%A9%A7%EF%BC%88hester%EF%BC%89-%E5%8D%93-b51176132/)
 
 Have fun!
 
