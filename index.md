@@ -7,7 +7,7 @@ lang: en
 
 Hello, my name is Xiaojing Zhuo. You can also call me Hester. I am majoring in Conference Interpreting and Translation (Chinese-English). I have worked as a part-time translator since June 2016, rendering many materials both from Chinese to English and from English to Chinese. There are the links to my CV and LinkedIn page:
 
-[CV](http://image: /files/images/CV.pdf)   
+[CV](http://https://hester-tso.github.io/assets/doc/CV.pdf)   
 [Work](https://www.anglia.ac.uk/people/krisztian-hofstadter)   
 [LinkedIn](https://www.linkedin.com/in/%E6%99%93%E5%A9%A7%EF%BC%88hester%EF%BC%89-%E5%8D%93-b51176132/)
 
