@@ -5,7 +5,7 @@ description: "Jekyll Basics is a simple boilerplate Jekyll site with multilingua
 lang: en
 ---
 
-Hello, my name is Xiaojing Zhuo. You can also call me Hester. I am majoring in Conference Interpreting and Translation (Chinese-English). I have worked as a part-time translator since June 2016, rendering many materials both from Chinese to English and from English to Chinese. There are the links to my CV and LindeIn page:
+Hello, my name is Xiaojing Zhuo. You can also call me Hester. I am majoring in Conference Interpreting and Translation (Chinese-English). I have worked as a part-time translator since June 2016, rendering many materials both from Chinese to English and from English to Chinese. There are the links to my CV and LinkedIn page:
 
 [CV](https://khofstadter.info/assets/doc/K-Hofstader-CV-general-2019.pdf)   
 [Work](https://www.anglia.ac.uk/people/krisztian-hofstadter)   
