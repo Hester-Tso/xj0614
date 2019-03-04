@@ -12,6 +12,6 @@ description: "Jekyll Basics是一个网站模板，可支持多种语言和（�
 [Work](https://www.anglia.ac.uk/people/krisztian-hofstadter)   
 [LinkedIn](https://www.linkedin.com/in/%E6%99%93%E5%A9%A7%EF%BC%88hester%EF%BC%89-%E5%8D%93-b51176132/)
 
-希望大家这节课玩得开心！
+希望大家能喜欢我的网站！
 
 ## 翻译案例
